@@ -1,3 +1,4 @@
+#Face_Detection
 ● Importing essential libraries and reading an image from a specified path. The image is displayed using both Matplotlib and OpenCV for
 verification.
 ● The image is resized to smaller dimensions to enhance processing speed and converted to grayscale, as face detection algorithms
